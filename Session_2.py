@@ -1,16 +1,21 @@
-# Python Level 1 - Day 2
-# Teach Python to Remember
+# ==========================================
+# PYTHON LEVEL 1 - DAY 2
+# MISSION 02 - TEACH PYTHON TO REMEMBER
+# ==========================================
 
-# Your variables
+print("==============================")
+print("       PLAYER PROFILE")
+print("==============================")
 
-name = "________"
+name = "__________"
 age = ________
 height = ________
 is_student = ________
 
-# Print your information
+print()
+print("Name:", name)
+print("Age:", age)
+print("Height:", height)
+print("Student:", is_student)
 
-print(name)
-print(age)
-print(height)
-print(is_student)
+print("==============================")

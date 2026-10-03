@@ -1,10 +1,10 @@
 # ==========================================
-# PYTHON LEVEL 1 - SESSION 5
-# PYTHON SKILL CHECK
+# PYTHON LEVEL 1 - DAY 5
+# ASSESSMENT 1
 # ==========================================
 
 print("==============================")
-print("     PYTHON SKILL CHECK")
+print("      PYTHON SKILL CHECK")
 print("==============================")
 
 name = input("Enter your name: ")
@@ -30,3 +30,9 @@ print("Welcome", name)
 
 # Challenge 5
 # Write your code here
+
+
+print()
+print("==============================")
+print("      ASSESSMENT COMPLETE")
+print("==============================")

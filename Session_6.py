@@ -9,9 +9,15 @@ print("==============================")
 
 age = int(input("Enter your age: "))
 
-if age >= 10:
-    print("You can play the game!")
+# TODO:
+# Create an if condition
 
+
+# TODO:
+# Add an else condition
+
+
+print()
 print("==============================")
-print("        PROGRAM END")
+print("       PROGRAM END")
 print("==============================")
